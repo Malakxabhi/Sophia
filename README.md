@@ -71,7 +71,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click Sophia logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS" target="blank"><img align="center" src="https://www.linkpicture.com/q/Devuttybot.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS" target="blank"><img align="center" src="https://www.linkpicture.com/q/Devuttybot.jpg" alt="kyrie.baran" height="400" width="400" /></a>
 </p>
     
 ## Setup
