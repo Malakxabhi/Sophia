@@ -1,4 +1,4 @@
-#-- Typing SVG -->
+#-- Marco X Kid -->
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
