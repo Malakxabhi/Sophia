@@ -38,14 +38,14 @@ Project created by <a href="https://github.com/Vasudevxmarco/Sophia">Marco X Kid
 </p>
 <h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
-<a href="https://youtu.be/JzTpSfw6jcM" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCs3pwGylxprc5-nVZgn0CaQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
 <div align="center">
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hisham-muhammed&show_icons=true&theme=nightowl" alt="MARCO" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisham-muhammed&theme=nightowl" alt="MARCO" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudevxmarco&theme=nightowl" alt="MARCO" /></p>
 </details> </div>
 
 
