@@ -53,7 +53,7 @@ Project created by <a href="https://github.com/Vasudevxmarco/Sophia">Marco X Kid
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
@@ -61,7 +61,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click Sophia logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://i.imgur.com/1CjbIG8.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS" target="blank"><img align="center" src="https://www.linkpicture.com/q/Devuttybot.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
