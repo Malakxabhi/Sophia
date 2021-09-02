@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=100)](https://github.com/Vasudevxmarco) |  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=100)](https://github.com/Vasudevxmarco) | [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=100)](https://github.com/Vasudevxmarco) 
 ----|----|----
-[Marco X Kid](https://github.com/Vasudevxmarco)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[Marco X Kid](https://github.com/Vasudevxmarco)  | [Marco X Kid](https://github.com/Vasudevxmarco) | [Vasudevxmarco](https://github.com/Vasudevxmarco)
 Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
   </div>
     
