@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/Vasudevxmarco/Sophia">Marco X Kid
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hisham-muhammed&show_icons=true&theme=nightowl" alt="MARCO" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasudevxmarco&show_icons=true&theme=nightowl" alt="MARCO" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudevxmarco&theme=nightowl" alt="MARCO" /></p>
 </details> </div>
