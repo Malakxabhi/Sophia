@@ -22,7 +22,7 @@ Best whatsapp bot | Reedited from whatsasena
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Vasudevxmarco/Sophia">Marco X Kid</a> to make it public
+Project created by <a href="https://github.com/Vasudevxmarco">Marco X Kid</a> to make it public
     <br>
        | Â© |
         Reserved |
