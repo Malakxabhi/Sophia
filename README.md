@@ -13,7 +13,7 @@ Best whatsapp bot | Reedited from whatsasena
 
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/20210902_123532.png" width="400" height="400"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/20210903_110857.png" width="400" height="400"/>
   <p align="center">
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/-Devu%20Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
