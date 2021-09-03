@@ -29,28 +29,7 @@ Project created by <a href="https://github.com/Vasudevxmarco">Marco X Kid</a> to
     <br> 
 </p>
 
-      <!-- Typing SVG -->
 
-<p align="center">
-
-    <a href="https://github.com/Vasudevxmarco">
-
-        <img
-
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Created+by+Marco+X+Kid."
-
-            alt="Typing SVG"
-             
-             
-             <div align="center">
-
-  <img border-radius: 15px src="https://www.linkpicture.com/q/20210903_111359.png" width="400" height="400"/>
-
-  <p align="center">
-   
-
-        /> 
-     
 ----
 
   <p align="center">
