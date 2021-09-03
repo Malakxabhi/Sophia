@@ -8,7 +8,7 @@
         /> 
 
       
-Devu Mwol
+Devu-Mwol
 Best whatsapp bot | Reedited from Sophia Public Bot 
 
 
@@ -61,18 +61,18 @@ Project created by <a href="https://github.com/Vasudevxmarco">Marco X Kid</a> to
 
 
 ##  Guide
-Click WA logo to Join Support Group ðŸ‘‡
+Click WA logo to Join Support Group Of Marco
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
-  <h3 align="center">ðŸ“¢ Support Group 2:</h3>
+  <h3 align="center"> Support Group of Ichu Bro:</h3>
 <p align="center">
-Click Sophia logo to Join Support Group 2ðŸ‘‡
+Click Devu-mwol logo to Join Support Group 
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359.png" alt="kyrie.baran" height="400" width="400" /></a>
+  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359.png" alt="kyrie.baran" height="400" width="400" /></a>
 </p>
     
 ## Setup
