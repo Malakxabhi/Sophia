@@ -9,7 +9,7 @@
 
       
 Devu Mwol
-Best whatsapp bot | Reedited from whatsasena 
+Best whatsapp bot | Reedited from Sophia Public Bot 
 
 
 <div align="center">
