@@ -128,11 +128,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Vasudevxmarco) |  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=200)](https://github.com/Vasudevxmarco) 
+  [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Vasudevxmarco) |  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=200)](https://github.com/Vasudevxmarco) | [FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Vasudevxmarco)
 ----|----|----
 [FAKE-CARLO](https://github.com/Fakecarlo)  | [Marco X Kid](https://github.com/Vasudevxmarco) | [Malak X Abhi](https://github.com/Malakxabhi)
-Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
-  </div>
+Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules | Bug Fixes, Modules
+  </div
     
 
 
