@@ -67,7 +67,7 @@ Click WA logo to Join Support Group Of Marco
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
-  <h3 align="center"> My Profile:</h3>
+  <h3 align="center"> DEVELOPER,OWNER:</h3>
 <p align="center">
 Click the logo to view My Profile 
     <br>
@@ -148,7 +148,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Fake-Bean](https://github.com/Fake-bean.png?size=100)](https://github.com/Fake-bean) |  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=100)](https://github.com/Vasudevxmarco) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=100)](https://github.com/Malakxabhi) 
+  [![Fake-Bean](https://github.com/Fake-bean.png?size=100)](https://github.com/Fake-bean) |  [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=100)](https://github.com/Fakecarlo) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=100)](https://github.com/Malakxabhi) 
 ----|----|----
 [Fake-Bean](https://github.com/Fake-bean)  | [MARCO X KID](https://github.com/Vasudevxmarco) | [Malak x Abhi](https://github.com/Malakxabhi)
 Base, Bug Fixes, Modules |Bug Fixes, Modules| Bug Fixes, Modules
