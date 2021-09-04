@@ -91,7 +91,7 @@ Click Devu-Mwol logo to Join ichu bro's Whatsapp group
 
 <br>
 
-  <a href="https://github.com/Vasudevxmarco" target="blank"><img align="center" src="https://www.linkpicture.com/q/IMG-20210904-WA0022.jpg" alt="kyrie.baran" height="400" width="400" /></a>
+  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359_1.png" alt="kyrie.baran" height="400" width="400" /></a>
 
 </p>
     
