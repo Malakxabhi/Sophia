@@ -130,7 +130,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Vasudevxmarco) |  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco) | [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=200)](https://github.com/Vasudevxmarco) 
 ----|----|----
-[FAKE-CARLO](https://github.com/Fakecarlo)  | [      Marco X Kid](https://github.com/Vasudevxmarco) | [Vasudevxmarco](https://github.com/Vasudevxmarco)
+[FAKE-CARLO](https://github.com/Fakecarlo)  | [Marco X Kid](https://github.com/Vasudevxmarco) | [Vasudevxmarco](https://github.com/Vasudevxmarco)
 Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
   </div>
     
