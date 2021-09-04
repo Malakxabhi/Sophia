@@ -67,7 +67,7 @@ Click WA logo to Join Support Group Of Marco
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
-  <h3 align="center"> DEVELOPER,OWNER:</h3>
+  <h3 align="center"> DEVELOPER & OWNER</h3>
 <p align="center">
 Click the logo to view My Profile 
     <br>
