@@ -67,9 +67,9 @@ Click WA logo to Join Support Group Of Marco
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
-  <h3 align="center"> Support Group of Ichu Bro:</h3>
+  <h3 align="center"> My Profile:</h3>
 <p align="center">
-Click Devu-mwol logo to Join Support Group 
+Click My logo to view My Profile 
     <br>
 <br>
   <a href="https://github.com/Vasudevxmarco" target="blank"><img align="center" src="https://www.linkpicture.com/q/IMG-20210904-WA0022.jpg" alt="kyrie.baran" height="400" width="400" /></a>
