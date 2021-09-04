@@ -128,10 +128,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![Fake-Bean](https://github.com/Fake-bean.png?size=100)](https://github.com/Fake-bean) |  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=100)](https://github.com/Vasudevxmarco) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=100)](https://github.com/Malakxabhi) 
 ----|----|----
 [ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
-Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
+Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
   </div>
     
 
