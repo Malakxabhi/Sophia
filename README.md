@@ -131,7 +131,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Fake-Bean](https://github.com/Fake-bean.png?size=100)](https://github.com/Fake-bean) |  [![Marco X Kid](https://github.com/Vasudevxmarco.png?size=100)](https://github.com/Vasudevxmarco) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=100)](https://github.com/Malakxabhi) 
 ----|----|----
 [Fake-Bean](https://github.com/Fake-bean)  | [MARCO X KID](https://github.com/Vasudevxmarco) | [Malak x Abhi](https://github.com/Malakxabhi)
-Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
+Base, Bug Fixes, Modules |Bug Fixes, Modules| Bug Fixes, Modules
   </div>
     
 
