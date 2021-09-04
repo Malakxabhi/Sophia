@@ -148,7 +148,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Fake-Bean](https://github.com/Fake-bean.png?size=100)](https://github.com/Fake-bean) |  [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Fakecarlo) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=100)](https://github.com/Malakxabhi) 
+  [![Fake-Bean](https://github.com/Fake-bean.png?size=200)](https://github.com/Fake-bean) |  [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Fakecarlo) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=200)](https://github.com/Malakxabhi) 
 ----|----|----
 [Fake-Bean](https://github.com/Fake-bean)  | [CARLO](https://github.com/Fakecarlo) | [Malak x Abhi](https://github.com/Malakxabhi)
 Base, Bug Fixes, Modules |Bug Fixes, Modules| Bug Fixes, Modules
