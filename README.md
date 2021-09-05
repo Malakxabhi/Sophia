@@ -18,7 +18,7 @@ Best whatsapp bot | Reedited from Sophia Public Bot
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/-Devu%20Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Vasudevxmarco"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/917012541567"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
