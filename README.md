@@ -94,7 +94,7 @@ Click Devu-Mwol logo to Join ichu bro's Whatsapp group
 
 
 
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359_1.png" alt="kyrie.baran" height="400" width="400" /></a>
+  <a align="center"> href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359_1.png" alt="kyrie.baran" height="400" width="400" /></a>
 
 </p>
     
