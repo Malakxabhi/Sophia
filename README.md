@@ -81,17 +81,35 @@ Click the logo to view My Profile
      
       
  ##
-  <h3 align="center"> Support Group of ichu Bro:</h3>
+  <h3 align="center"> To Contact Me </h3>
 
 <p align="center">
 
-Click Devu-Mwol logo to Join ichu bro's Whatsapp group
+Click WhatsApp logo to message me
      <br>
     
 
 <br>
 
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359_1.png" alt="kyrie.baran" height="400" width="400" /></a>
+  <a href="https://wa.me/917012541567" target="blank"><img align="center" src="https://www.linkpicture.com/q/whatsapp-logo-png-2266.png" alt="kyrie.baran" height="400" width="400" /></a>
+
+</p>
+     
+      ##
+
+  <h3 align="center"> Support Group of ichu Bro:</h3>
+
+<p align="center">
+
+Click Devu-Mwol logo to Join ichu bro's Whatsapp group
+
+     <br>
+
+    
+
+<br>
+
+  <a href="https://wa.me/917012541567" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359_1.png" alt="kyrie.baran" height="100" width="100" /></a>
 
 </p>
     
