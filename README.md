@@ -95,19 +95,19 @@ Click WhatsApp logo to message me
 
 </p>
      
-      ##
-
+      
+  ##
   <h3 align="center"> Support Group of ichu Bro:</h3>
 
 <p align="center">
 
 Click Devu-Mwol logo to Join ichu bro's Whatsapp group
+       <br>
+     
 
-     <br>
+    <br>
 
-    
 
-<br>
 
   <a href="https://wa.me/917012541567" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359_1.png" alt="kyrie.baran" height="100" width="100" /></a>
 
