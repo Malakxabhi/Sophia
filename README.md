@@ -101,7 +101,7 @@ Click Devu-Mwol logo to Join ichu bro's Whatsapp group
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vasudevxmarco/Devu-Mwol.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vasudevxmarco/Devu-Mwol1.git)
      </div>
 <br>
 <br >
