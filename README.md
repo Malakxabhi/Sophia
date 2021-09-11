@@ -1,67 +1,97 @@
-# Sophia
-Best whatsapp bot | Reedited from whatsasena 
+ <!-- Typing SVG -->
+
+<p align="center">
+    <a href="https://github.com/Vasudevxmarco">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Devu+Mwol."
+            alt="Typing SVG"
+        /> 
+
+      
+Devu-Mwol
+Best whatsapp bot | Reedited from Sophia Public Bot 
 
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/1CjbIG8.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/20210903_110857.png" width="400" height="400"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Sophia" src="https://img.shields.io/badge/-Devu%20Mwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/917012541567"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MARCO-green?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Vasudevxmarco">Marco X Kid</a> to make it public
     <br>
        | Â© |
         Reserved |
     <br> 
 </p>
 
+
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/Hisham-muhammed/Sophia?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Vasudevxmarco/Devu-Mwol">
+    <img src="https://img.shields.io/github/repo-size/Vasudevxmarco/Devu-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hisham-muhammed/Sophia-1?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hisham-muhammed/sophia-1?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hisham-muhammed/Sophia-1?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/Devu-Mwol"><img title="Followers" src="https://img.shields.io/github/followers/Vasudevxmarco?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/Devu-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Vasudevxmarco/Devu-Mwol?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/Devu-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Vasudevxmarco/Devu-Mwol?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Vasudevxmarco/Devu-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Vasudevxmarco/Devu-Mwol?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/hisham___muhammed__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://www.instagram.com/p/CTAWWlUIZ9o/?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="50" width="60" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
+<h4 align="center">Support Video For Deploy Bot :</h4>
 <p align="center">
-<a href="https://youtu.be/JzTpSfw6jcM" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCs3pwGylxprc5-nVZgn0CaQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hisham-muhammed&show_icons=true&theme=nightowl" alt="Hisham-muhammed" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasudevxmarco&show_icons=true&theme=nightowl" alt="MARCO" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisham-muhammed&theme=nightowl" alt="Hisham-muhammed" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudevxmarco&theme=nightowl" alt="MARCO" /></p>
 </details> </div>
 
 
-## ðŸ“¢ Guide
-Click WA logo to Join Support Group ðŸ‘‡
+##  Guide
+Click WA logo to Join Support Group Of Marco
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JzmVhujqeK71bLDOYyA6oS)
 
 ## 
-  <h3 align="center">ðŸ“¢ Support Group 2:</h3>
+  <h3 align="center"> DEVELOPER & OWNER</h3>
 <p align="center">
-Click Sophia logo to Join Support Group 2ðŸ‘‡
+Click the logo to view My Profile 
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://i.imgur.com/1CjbIG8.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://github.com/Vasudevxmarco" target="blank"><img align="center" src="https://www.linkpicture.com/q/IMG-20210904-WA0022.jpg" alt="kyrie.baran" height="400" width="400" /></a>
+</p>
+     
+     
+     
+     
+     
+
+      
+  ##
+  <h3 align="center"> Support Group of ichu Bro:</h3>
+
+<p align="center">
+
+Click Devu-Mwol logo to Join ichu bro's Whatsapp group
+       <br>
+   
+
+  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://www.linkpicture.com/q/20210903_111359_1.png" alt="kyrie.baran" height="400" width="400" /></a>
+
 </p>
     
 ## Setup
@@ -71,7 +101,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/Sophia-.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vasudevxmarco/Devu-Mwol1.git)
      </div>
 <br>
 <br >
@@ -96,8 +126,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
-$ cd Sophia-Mwol
+$ git clone https://github.com/Vasudevxmarco/Devu-Mwol
+$ cd Devu-Mwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ node qr.js
@@ -106,7 +136,7 @@ $ node bot.js
 ```
 
 
-### âš ï¸ Warning! 
+### 🔰 Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
@@ -117,10 +147,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![Fake-Bean](https://github.com/Fake-bean.png?size=200)](https://github.com/Fake-bean) |  [![FAKE-CARLO](https://github.com/Fakecarlo.png?size=200)](https://github.com/Fakecarlo) | [![Malak X Abhi](https://github.com/Malakxabhi.png?size=200)](https://github.com/Malakxabhi) 
 ----|----|----
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
-Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
+[Fake-Bean](https://github.com/Fake-bean)  | [CARLO](https://github.com/Fakecarlo) | [Malak x Abhi](https://github.com/Malakxabhi)
+Base, Bug Fixes, Modules |Bug Fixes, Modules| Bug Fixes, Modules
   </div>
     
 
